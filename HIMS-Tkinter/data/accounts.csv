@@ -1,0 +1,2 @@
+id,username,password_hash,full_name,email,role,created_at
+USR-00001,Imran,pbkdf2_sha256$310000$334ff6c63ef164e56296ec1b0df25c92$fc17188568607df166ca9ee13fed7f66c7976049b61ab5d38559b56bec53e779,Muhammad,bjxai15@gmail.com,Administrator,2026-09-29T10:32:31

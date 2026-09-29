@@ -1,0 +1,1 @@
+invoice_id,patient,invoice_date,description,amount,discount,tax,total,payment_method,payment_status,notes,created_at

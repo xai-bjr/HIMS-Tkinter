@@ -1,0 +1,2 @@
+# No third-party packages are required.
+# Tkinter/ttk are part of the standard Python Windows distribution.
